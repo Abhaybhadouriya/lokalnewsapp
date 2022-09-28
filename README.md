@@ -14,7 +14,15 @@ I know how to build website from scratch.
 
 ## Demo
 
+**Video**
 https://youtu.be/M_vstTPPZmQ
+
+**Live Website**
+https://lokalnewsapp.vercel.app/
+
+```
+  NOTE:- Free tier of NEWSAPI not supported on browser so live website not showing news articles
+```
 
 
 ## Tech Stack
