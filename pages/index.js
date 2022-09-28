@@ -62,7 +62,7 @@ export default function Home() {
         paddingBottom: 15
 
       }}>
-        {NewsJson.length > 0 ? NewsJson.map((e,index) =>
+        {NewsJson!== undefined&& NewsJson.length > 0 ? NewsJson.map((e,index) =>
           <NewsTileShort
             key={index}
             title={e['title']}
