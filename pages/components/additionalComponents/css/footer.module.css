@@ -1,0 +1,12 @@
+.outer{
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 123, 0);
+    color: white;
+    
+}
