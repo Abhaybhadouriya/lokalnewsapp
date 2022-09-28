@@ -7,7 +7,7 @@ import Header from "./components/additionalComponents/Header";
 import SorryNoNews from './components/additionalComponents/SorryNoNews';
 import NewsTileShort from './components/newsTiles/NewsTileShort';
 export default function Home() {
-  const apiKey = '6a1d4f2afd3b4379bd04f56e72a8bb6d'
+  const apiKey = 'd69568e05fa24c459248c4f028c64c3b'
   const country = 'in'
   const topHeadlinesUrl = 'https://newsapi.org/v2/top-headlines?country='
   const [NewsJson, setNewsJson] = useState([]);
